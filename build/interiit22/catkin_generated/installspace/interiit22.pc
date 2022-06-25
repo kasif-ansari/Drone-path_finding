@@ -1,0 +1,8 @@
+prefix=/home/kasif/ws/install
+
+Name: interiit22
+Description: Description of interiit22
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

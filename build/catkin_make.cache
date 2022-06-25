@@ -1,0 +1,2 @@
+interiit22:iq_gnc:prius_description:prius_msgs
+-DCATKIN_DEVEL_PREFIX=/home/kasif/ws/devel -DCMAKE_INSTALL_PREFIX=/home/kasif/ws/install -G Unix Makefiles
